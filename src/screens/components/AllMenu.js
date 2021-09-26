@@ -113,9 +113,9 @@ function AllNaviMenu() {
         <Link to="/">
           <h4>헤어</h4>
         </Link>
-        <Link to="/">이제</Link>
-        <Link to="/">그만</Link>
-        <Link to="/">ㅎㅎ</Link>
+        <Link to="/">맛있는</Link>
+        <Link to="/">짜장면</Link>
+        <Link to="/">원해요</Link>
       </Column>
     </AllMenu>
   );
